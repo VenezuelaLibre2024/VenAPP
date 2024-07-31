@@ -1,0 +1,22 @@
+version: 2.9.3-dirty
+apkFileName: split_config.xxhdpi.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 504
+  versionName: null
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  stamp-cert-sha256: 8
+doNotCompress:
+- resources.arsc
+- png

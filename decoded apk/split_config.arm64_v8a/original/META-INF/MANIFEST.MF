@@ -1,0 +1,53 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: /6f9J0XAk0Y3j00UJpyDt5GAGXM=
+
+Name: lib/arm64-v8a/libapp.so
+SHA1-Digest: XYbIeseFB2CRa9zaozD144CiOSU=
+
+Name: lib/arm64-v8a/libavcodec.so
+SHA1-Digest: 8Iw+nKjI/R+1w2SMxmodHSTTiMU=
+
+Name: lib/arm64-v8a/libavdevice.so
+SHA1-Digest: EMPu12+Mj1cht171M4kPV8nIxso=
+
+Name: lib/arm64-v8a/libavfilter.so
+SHA1-Digest: HEEzV6E/FTLDOBulv2+AR5asj8U=
+
+Name: lib/arm64-v8a/libavformat.so
+SHA1-Digest: tixwDKoQft1R06UTUMAFj4AXZgk=
+
+Name: lib/arm64-v8a/libavutil.so
+SHA1-Digest: Gq0614Odi59pIzNZNSqg6bXhhUE=
+
+Name: lib/arm64-v8a/libbarhopper_v3.so
+SHA1-Digest: n8lyNjLsMfMW50a+v2hSFql1HnI=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA1-Digest: gKM3UyYCv9NfpYw/B8PGwLYVYdg=
+
+Name: lib/arm64-v8a/libffmpegkit.so
+SHA1-Digest: G8U5z+akfyZrRNXw9obTd987jMM=
+
+Name: lib/arm64-v8a/libffmpegkit_abidetect.so
+SHA1-Digest: yJixtPvrrohw5Gfgm3x27VatGnM=
+
+Name: lib/arm64-v8a/libflutter.so
+SHA1-Digest: 1SMhbDMCM1ZpeXvqgE3wfFgyL9M=
+
+Name: lib/arm64-v8a/libimage_processing_util_jni.so
+SHA1-Digest: UOMKeycWGO8PQx7/SWiM6hucnnE=
+
+Name: lib/arm64-v8a/libswresample.so
+SHA1-Digest: SBK1vLeqaKP1bSlDejuqhmxe8iY=
+
+Name: lib/arm64-v8a/libswscale.so
+SHA1-Digest: jMZCFlRJxr272p00hfkiGvSVFvA=
+
+Name: lib/arm64-v8a/libtoolChecker.so
+SHA1-Digest: zEM3Y2q0qTsTZANBM5UWXT/Vabs=
+
+Name: stamp-cert-sha256
+SHA1-Digest: 5vTkm69vqAbusD/fho7oWwc7j+I=
+

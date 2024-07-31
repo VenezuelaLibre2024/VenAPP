@@ -1,0 +1,44 @@
+package p134h8;
+
+import java.util.Collections;
+import java.util.List;
+import p120g8.C7484b;
+import p120g8.InterfaceC7491i;
+import p363t8.C11137a;
+
+/* renamed from: h8.f */
+/* loaded from: classes.dex */
+final class C7669f implements InterfaceC7491i {
+
+    /* renamed from: a */
+    private final List<C7484b> f18271a;
+
+    public C7669f(List<C7484b> list) {
+        this.f18271a = list;
+    }
+
+    @Override // p120g8.InterfaceC7491i
+    /* renamed from: b */
+    public int mo22798b(long j10) {
+        return j10 < 0 ? 0 : -1;
+    }
+
+    @Override // p120g8.InterfaceC7491i
+    /* renamed from: h */
+    public List<C7484b> mo22799h(long j10) {
+        return j10 >= 0 ? this.f18271a : Collections.emptyList();
+    }
+
+    @Override // p120g8.InterfaceC7491i
+    /* renamed from: i */
+    public long mo22800i(int i10) {
+        C11137a.m34599a(i10 == 0);
+        return 0L;
+    }
+
+    @Override // p120g8.InterfaceC7491i
+    /* renamed from: l */
+    public int mo22801l() {
+        return 1;
+    }
+}

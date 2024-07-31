@@ -1,0 +1,23 @@
+.class public interface abstract Lcom/google/android/gms/internal/firebase-auth-api/zzakn;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Lcom/google/android/gms/internal/firebase-auth-api/zzakp;
+
+
+# virtual methods
+.method public abstract zza(Lcom/google/android/gms/internal/firebase-auth-api/zzaik;)V
+.end method
+
+.method public abstract zzi()Lcom/google/android/gms/internal/firebase-auth-api/zzahp;
+.end method
+
+.method public abstract zzl()I
+.end method
+
+.method public abstract zzq()Lcom/google/android/gms/internal/firebase-auth-api/zzakm;
+.end method
+
+.method public abstract zzr()Lcom/google/android/gms/internal/firebase-auth-api/zzakm;
+.end method

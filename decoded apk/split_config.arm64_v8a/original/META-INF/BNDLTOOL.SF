@@ -1,0 +1,56 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: htcCstybPDgjzID9YmAoO2j1+/4=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: c+Fay27TRYiBLVF3aSsOmRKQBbc=
+
+Name: lib/arm64-v8a/libapp.so
+SHA1-Digest: h2QLyIAQY8yJdv7ulY1IWI25iGs=
+
+Name: lib/arm64-v8a/libavcodec.so
+SHA1-Digest: nhCqgRb0BkQYG6ijfA5bGD8LOmc=
+
+Name: lib/arm64-v8a/libavdevice.so
+SHA1-Digest: +X2VcSAW1fJ4UgkbT7nQK4D2tHI=
+
+Name: lib/arm64-v8a/libavfilter.so
+SHA1-Digest: 9FBj8j06Q+/KopuG0GlMQXTgKCc=
+
+Name: lib/arm64-v8a/libavformat.so
+SHA1-Digest: Dljko7CZXpaQHOBo1tkTG7keUIs=
+
+Name: lib/arm64-v8a/libavutil.so
+SHA1-Digest: idDwTtWUxJYqWLFOLqPwnw6eXw4=
+
+Name: lib/arm64-v8a/libbarhopper_v3.so
+SHA1-Digest: dwOjAoa/oRXnxMpq6F8lsdg56E0=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA1-Digest: JrkWMyZdZC3rjIsNZh6jLJ2A8TE=
+
+Name: lib/arm64-v8a/libffmpegkit.so
+SHA1-Digest: Dner61XK7mUl3+Qv9q6B41lveyY=
+
+Name: lib/arm64-v8a/libffmpegkit_abidetect.so
+SHA1-Digest: f4Cy5LgCATYRcks6n9KCRYJcUw8=
+
+Name: lib/arm64-v8a/libflutter.so
+SHA1-Digest: N1ehkbke8Fo44kLalj8PlzGtUmw=
+
+Name: lib/arm64-v8a/libimage_processing_util_jni.so
+SHA1-Digest: ASXAcQxjE5lrWoZ/fqt5JJbpsNk=
+
+Name: lib/arm64-v8a/libswresample.so
+SHA1-Digest: 7kIMXZo2bu5qBtQbwTD6E0oFXG0=
+
+Name: lib/arm64-v8a/libswscale.so
+SHA1-Digest: EQsU9s0F38PkMZFJ5K010lpm5T0=
+
+Name: lib/arm64-v8a/libtoolChecker.so
+SHA1-Digest: bFzk72Fs4QCt6IIb1PTqdMFEQSs=
+
+Name: stamp-cert-sha256
+SHA1-Digest: Bs40BvDZ1xrbgQrPTD2x5w/NfHQ=
+

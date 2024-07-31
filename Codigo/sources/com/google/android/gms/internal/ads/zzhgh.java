@@ -1,0 +1,40 @@
+package com.google.android.gms.internal.ads;
+
+/* loaded from: classes2.dex */
+public final class zzhgh extends zzgzu implements zzhbf {
+    private static final zzhgh zzb;
+    private int zzd;
+    private String zze = "";
+
+    static {
+        zzhgh zzhghVar = new zzhgh();
+        zzb = zzhghVar;
+        zzgzu.zzaU(zzhgh.class, zzhghVar);
+    }
+
+    private zzhgh() {
+    }
+
+    /* JADX INFO: Access modifiers changed from: protected */
+    @Override // com.google.android.gms.internal.ads.zzgzu
+    public final Object zzb(int i10, Object obj, Object obj2) {
+        int i11 = i10 - 1;
+        if (i11 == 0) {
+            return (byte) 1;
+        }
+        if (i11 == 2) {
+            return zzgzu.zzaR(zzb, "\u0001\u0001\u0000\u0001\u0001\u0001\u0001\u0000\u0000\u0000\u0001ဈ\u0000", new Object[]{"zzd", "zze"});
+        }
+        if (i11 == 3) {
+            return new zzhgh();
+        }
+        zzhdp zzhdpVar = null;
+        if (i11 == 4) {
+            return new zzhgg(zzhdpVar);
+        }
+        if (i11 != 5) {
+            return null;
+        }
+        return zzb;
+    }
+}
